@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOddOrEven", "CSharpOddOrEven\CSharpOddOrEven.csproj", "{A054A36D-29A5-4A58-8AF6-AAFE418EEBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOddOrEven.Tests", "OddOrEven.Tests\CSharpOddOrEven.Tests.csproj", "{ACFEC6BC-F458-417E-94CA-8EA95864A6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A054A36D-29A5-4A58-8AF6-AAFE418EEBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A054A36D-29A5-4A58-8AF6-AAFE418EEBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A054A36D-29A5-4A58-8AF6-AAFE418EEBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A054A36D-29A5-4A58-8AF6-AAFE418EEBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFEC6BC-F458-417E-94CA-8EA95864A6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFEC6BC-F458-417E-94CA-8EA95864A6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFEC6BC-F458-417E-94CA-8EA95864A6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFEC6BC-F458-417E-94CA-8EA95864A6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCE052BB-824F-4485-8B0B-08A082BCECBB}
+	EndGlobalSection
+EndGlobal
